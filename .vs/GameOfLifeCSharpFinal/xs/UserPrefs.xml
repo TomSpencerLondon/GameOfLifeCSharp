@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EEC77C7D-E628-47DF-B1A7-1C14C657936E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameOfLifeCSharpFinal/World.cs">
+    <Files>
+      <File FileName="GameOfLifeCSharpFinal/Program.cs" Line="7" Column="16" />
+      <File FileName="GameOfLifeCSharpFinal/World.cs" Line="229" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameOfLifeCSharpFinal" expanded="True">
+            <Node name="GameOfLifeCSharpFinal" expanded="True">
+              <Node name="World.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameOfLifeCSharpFinal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

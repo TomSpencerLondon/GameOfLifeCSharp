@@ -1,0 +1,11 @@
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/obj/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.csprojAssemblyReference.cache
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/obj/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.AssemblyInfoInputs.cache
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/obj/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.AssemblyInfo.cs
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.deps.json
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.runtimeconfig.json
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.runtimeconfig.dev.json
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.dll
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/bin/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.pdb
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/obj/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.dll
+/Users/tomspencer/Projects/GameOfLifeCSharpFinal/GameOfLifeCSharpFinal/obj/Debug/netcoreapp3.0/GameOfLifeCSharpFinal.pdb
